@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @shugyoza
+- 👋 Hi, I’m Stephen. @shugyoza
 - 👀 I’m interested in changing my career, from lawyer to janitor to baker to finally be a software engineer
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on simple projects with html and css.
+- 🌱 I’m currently learning javascript...
+- 💞️ I can't collaborate right now...
 - 📫 How to reach me ...
 
 <!---
