@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shugyoza
 - 👀 I’m interested in changing my career, from lawyer to janitor to baker to finally be a software engineer
-- 🌱 I’m currently learning html and css
+- 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on simple projects with html and css.
 - 📫 How to reach me ...
 
