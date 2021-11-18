@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @shugyoza
-- 👀 I love coding.
-- 🌱 I’m learning javascript, html, css, express-js framework, and pug template...
-- 💞️ I would love collaborate on things in the near future...
-- 📫 How to reach me ...
+- 👀 I’m a lawyer turned self-taught web developer. Still working on Free Code Camp and The Odin Project's curricula. 
+- 🌱 I've been working with HTML, CSS, JS, Node-JS, Express-JS, React-JS and Pug.
+- 💞️ 
+- 📫 
 
 <!---
 shugyoza/shugyoza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
