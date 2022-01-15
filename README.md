@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shugyoza
-- 👀 I am a self-taught web developer. As you could see in my LinkedIn, I was an independent non-litigation lawyer in Indonesia with 17 (seventeen) years of experience in drafting legal instruments, also 2 (two) master of laws and a bachelor of laws, all from the best university in Indonesia. I am well trained to read references, think logically and analytically, also in brainstorming creative approaches to resolve problems, and map every possible scenario to anticipate and avoid future possible problems, in order to produce good legal instruments with minimum assumptions and potential flaws, just like what a coder must do to produce a good application. I made this leap because coding is fun!
-- 🌱 I have worked with: HTML, CSS, JavaScript, Node-JS, React-JS, D3-JS, Pug, Express JS, API, and more to come!
-- 💞️ 
+- 👀 A lawyer turned self-taught web developer. I made the leap because coding is fun! Are you hiring? Let's talk! I am well trained to read references, think logically & analytically, also in brainstorming creative approaches to resolve problems & map worst case scenarios to anticipate, like what a coder does to produce a good app, in order to produce good legal instruments with less assumptions and flaws.
+- 🌱 I have worked with HTML, CSS, JavaScript, Node, React, Express, D3, and MongoDB and will create more. I'm learning Postgresql, Pug, JQuery, SASS, Bootstrap and Redux. More to come! Hopefully.
+- 💞️ Looking for a role as junior software engineer /developer, or intern, anywhere! Always strive to be better. If you have any suggestion or lead, let me know, and thanks!
 - 📫 
 
 <!---
